@@ -311,7 +311,6 @@
                 android:background="#E69494"
                 app:menu="@menu/menu_bottomnavigation" />
 
-
         </LinearLayout>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>
