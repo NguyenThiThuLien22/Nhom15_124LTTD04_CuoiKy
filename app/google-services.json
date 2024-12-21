@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350075622629",
+    "project_id": "nhom15-ck",
+    "storage_bucket": "nhom15-ck.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350075622629:android:82bf45b6478260c128f00c",
+        "android_client_info": {
+          "package_name": "com.ktck124.lop124LTTD04.Nhom15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLKwonvCyXKmmn0H_eSvKUlP3C5kDeI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
